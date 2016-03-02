@@ -1,0 +1,5 @@
+username
+nickname
+age
+weight
+length

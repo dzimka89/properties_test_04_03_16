@@ -1,0 +1,5 @@
+username is Dima
+nickname is Lalalashka
+age is 26
+weight is not available
+length is not available
