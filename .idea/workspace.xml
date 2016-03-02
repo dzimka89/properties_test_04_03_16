@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f9d18adb-7f44-43b8-98cb-1e6f1804fb98" name="Default" comment="" />
+    <list default="true" id="f9d18adb-7f44-43b8-98cb-1e6f1804fb98" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/io_properties_test/TestOperatingProperties.java" afterPath="$PROJECT_DIR$/src/main/java/com/io_properties_test/TestOperatingProperties.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="homework_04_02_16.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -23,21 +27,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="TestOperatingProperties.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/io_properties_test/TestOperatingProperties.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="1.392126">
-              <caret line="52" column="77" selection-start-line="52" selection-start-column="77" selection-end-line="52" selection-end-column="77" />
+            <state vertical-scroll-proportion="0.696063">
+              <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -74,6 +68,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
       <projects_view />
@@ -86,8 +83,8 @@
         <option value="$PROJECT_DIR$/src/main/resources/conigFiles/config.properties" />
         <option value="$PROJECT_DIR$/properties.txt" />
         <option value="$PROJECT_DIR$/src/main/resources/configFiles/config.properties" />
-        <option value="$PROJECT_DIR$/src/main/java/com/io_properties_test/TestOperatingProperties.java" />
         <option value="$PROJECT_DIR$/Dmitriy.txt" />
+        <option value="$PROJECT_DIR$/src/main/java/com/io_properties_test/TestOperatingProperties.java" />
       </list>
     </option>
   </component>
@@ -455,14 +452,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_65/src.zip!/java/util/Scanner.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-57.984253">
@@ -503,6 +492,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.2944882">
+          <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Dmitriy.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -513,8 +510,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/io_properties_test/TestOperatingProperties.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.392126">
-          <caret line="52" column="77" selection-start-line="52" selection-start-column="77" selection-end-line="52" selection-end-column="77" />
+        <state vertical-scroll-proportion="0.696063">
+          <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
